@@ -36,7 +36,10 @@ venv.bak/
 *.swo
 
 # Project specific
+# Exclude all Excel files in Team_ideas_rating except detailed_ratings.xlsx and summary_ratings.xlsx
 Team_ideas_rating/*.xlsx
+!Team_ideas_rating/detailed_ratings.xlsx
+!Team_ideas_rating/summary_ratings.xlsx
 Team_ideas_rating/__pycache__/
 analyze_output.py
 check_output_files.py
