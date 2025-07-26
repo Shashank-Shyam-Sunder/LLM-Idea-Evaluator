@@ -41,6 +41,8 @@ Team_ideas_rating/__pycache__/
 analyze_output.py
 check_output_files.py
 debug_evaluations.py
+GitHub_Best_Practices.md
+GitHub_Push_Guide.md
 
 # OS specific
 .DS_Store
